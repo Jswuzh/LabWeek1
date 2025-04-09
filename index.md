@@ -8,3 +8,8 @@ I'm a ucsd student
 - C/C++
 - Java
 - Lua
+
+## What I have done
+- [] Finish my project
+- [x] Read all the book I brought
+- [] Find a intern
