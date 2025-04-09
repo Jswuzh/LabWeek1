@@ -13,4 +13,4 @@ I'm a ucsd student
 - [ ] Finish my project
 - [x] Read all the book I brought
 - [ ] Find a intern
-## Back to my top page []
+## Back to my top page [https://github.com/Jswuzh/LabWeek1/blob/add-read-me/README.md]
