@@ -13,4 +13,7 @@ I'm a ucsd student
 - [ ] Finish my project
 - [x] Read all the book I brought
 - [ ] Find a intern
+
+## what I currently interest
+Re Engine (https://www.capcom-games.com/coc/2023/en/session/10/)
 ## Back to my top page (https://github.com/Jswuzh/LabWeek1/blob/add-read-me/README.md)
