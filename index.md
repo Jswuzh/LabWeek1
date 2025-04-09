@@ -10,6 +10,6 @@ I'm a ucsd student
 - Lua
 
 ## What I have done
-- [] Finish my project
+- [ ] Finish my project
 - [x] Read all the book I brought
-- [] Find a intern
+- [ ] Find a intern
